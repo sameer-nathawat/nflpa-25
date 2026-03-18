@@ -1,6 +1,7 @@
 # Analyzing Impact of Workload on Injury Risk and Performance in the NFL
 
 **2025–26 NFLPA Case Competition**
+
 Sameer Nathawat & Duncan Park
 
 ---
