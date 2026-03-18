@@ -59,11 +59,11 @@ average** touches/targets.
 ### Visualizations
 | # | Graph | Purpose |
 |---|-------|---------|
-| 1–2 | Survival Curve | % of players still active each week by quartile |
-| 3–4 | Efficiency Decline | Weekly yards/touch and EPA for high-workload players |
-| 5–6 | Injury Risk Heatmap | Next-week injury rate by workload bin and week |
-| 7–8 | Games Missed Distribution | Consecutive games missed by quartile |
-| 9–10 | Weekly Workload Trends | Average touches/targets per week by quartile |
+| 1 | Survival Curve | % of players still active each week by quartile |
+| 2 | Efficiency Decline | Weekly yards/touch and EPA for high-workload players |
+| 3 | Injury Risk Heatmap | Next-week injury rate by workload bin and week |
+| 4 | Games Missed Distribution | Consecutive games missed by quartile |
+| 5 | Weekly Workload Trends | Average touches/targets per week by quartile |
 
 ### Statistical Tests (R)
 | Graph | Test |
