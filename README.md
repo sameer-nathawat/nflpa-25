@@ -1,7 +1,7 @@
 # Analyzing Impact of Workload on Injury Risk and Performance in the NFL
 
 **2025–26 NFLPA Case Competition**
-**Cornell Football Fanatics** — Duncan Park & Sameer Nathawat
+Sameer Nathawat & Duncan Park
 
 ---
 
@@ -35,7 +35,7 @@ season progresses.
 - High-workload RBs and WRs actually showed a small *decrease* in games missed 
   late in the season, potentially reflecting survivor bias or durability effects
 
-Our initial hypothesis was **rejected** — heavier workload does not straightforwardly 
+Our initial hypothesis was rejected: heavier workload does not necessarily  
 lead to increased injury risk or performance decline.
 
 ---
